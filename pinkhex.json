@@ -1,0 +1,31 @@
+{
+    "defaultProfile": "{61x54xxx-x2x6-5271-96x7-009x87xx44xx}",
+    "profiles": {
+        "defaults": {},
+        "list": [
+            {
+                "useAcrylic": true,
+                "acrylicOpacity": 0.2,
+                "guid": "(61x54xxx-x2x6-5271-96x7-009x87xx44xx)",
+                "colorScheme": "Pink Hex",
+                "hidden": false,
+                "name": "Ubuntu",
+                "source": "Windows.Terminal.Wsl",
+                "tabColor": "#ff00bf",
+                "padding": "8, 8, 8, 8",
+                "backgroundImage": "assets/pinkHex.png",
+                "backgroundImageOpacity": 0.5,
+                "backgroundImageAlignment": "center",
+                "backgroundImageStretchMode": "uniformToFill"
+            }
+        ]
+    },
+    "schemes": [
+        {
+            "name": "Pink Hex",
+            "background": "#F532F5",
+            "cursorColor": "#FF089D",
+            "foreground": "#FFFFFF"
+        }
+    ]
+}
