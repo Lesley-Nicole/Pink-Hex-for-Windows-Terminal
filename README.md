@@ -10,21 +10,21 @@
 
 ## **Prerequisites**
 
-- Windows Terminal(windows store)
+- Windows Terminal(download from Microsoft store)
 
 - Text editor
 
 ### **Download**
 
-Download using the [Github.zip download](https:://
-github.com/pink-hex-for-windows-terminal/master.zip)
+Download using the [Github.zip download](https://
+github.com/Lesley-Nicole/Pink-Hex-For-Windows-Terminal/archive/refs/heads/main.zip/)
 option.
 
 #### **Install**
 
-- Start Windows Terminal and click on the down arrow symbol from the menu bar. Then select Settings option from the dropdown menu.
+- Start Windows Terminal and click on the downward pointing arrow, in the menu bar. Then select the Settings option from the dropdown menu.
 
-- In the settings.json file for Windows Terminal, paste the content of pinkhex.json into the **schemes** section.
+- In the Windows Terminal _settings.json_ file, paste the contents of _pinkhex.json_ into the **schemes** section.
 
 **Like this:**
 
@@ -37,7 +37,7 @@ option.
         }
     ]
 
-Now that you have the scheme set, choose which terminal profile, or profiles, you want to use it on, then paste the following pinkhex.json content.
+Now that you have the colorscheme set, choose which terminal profile, or profiles, you want to use, then paste the following _pinkhex.json_ content.
 
 **Example:**
 
